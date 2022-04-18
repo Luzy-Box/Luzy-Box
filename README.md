@@ -1,7 +1,7 @@
 # Node-console-APP
 Config files for my GitHub profile.
-First Write
-Nothing can be write that I feel
+First Write\n
+I don't think there's angthing to write about.
 
 
 
